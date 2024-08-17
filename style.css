@@ -1,0 +1,165 @@
+*{
+margin:0 ;
+padding: 0;
+box-sizing: border-box;
+}
+.hero{
+
+background-image:url(imag/images\ \(1\).jpeg);
+height: 300px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+overflow: hidden;
+
+color: red;
+
+
+
+}
+.project{
+
+width: 100%;
+margin-top: 20px;
+overflow: hidden;
+
+
+}
+.project-item{
+background-image: url(imag/beautiful-blurred-green-nature-background-ai-generated-photo.jpg);
+float: left;
+height: 200px;
+width: 32.666%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-left: 10px;
+color:red;
+margin-bottom: 10px;
+
+}
+
+.hello{
+
+background-image: url(imag/images\ \(1\).jpeg);
+float: left;
+height: 200px;
+width: 32.666%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-left: 10px;
+color:red;
+margin-bottom: 10px;
+overflow: hidden;
+box-sizing: border-box;
+}
+
+
+
+.foter{
+
+
+height: 200px;
+background-color:aquamarine;
+margin-top: 3px;
+
+
+
+
+
+
+}
+
+.foter-item{
+float: left;
+width: 32.666%;
+margin-left: 10px;
+
+}
+
+
+.link{
+text-decoration: none;
+display: block;
+margin-top: 2px;
+color: red;
+
+
+}
+/* device responsive */
+
+    
+/* @media screen and (max-width:690px){
+.hero{
+height: 250px;
+color: chartreuse;
+
+
+
+
+}
+
+}
+@media screen and (max-width:1498px){
+.project-item{
+
+    width: 32%;
+
+
+
+}
+}
+@media screen and (max-width:899px){
+    .project-item{
+
+        width: 29%;
+
+
+    }
+}
+@media screen and (max-width:321px){
+    .project-item{
+
+width: 27%;
+    }
+}
+
+@media screen and (max-width:513;px) {
+
+    .project-item{
+width: 29%;
+height: 100px;
+
+
+    }
+
+
+
+    
+}
+    
+
+ */
+
+
+@media screen and (max-widht:1497px;){
+    .hero{
+
+width: 32%;
+
+
+
+    }
+
+
+
+    
+}
+
+
+
+
+
+
